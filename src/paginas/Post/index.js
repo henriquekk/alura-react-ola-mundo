@@ -49,7 +49,6 @@ export default function Post(){
                 </li>
               ))}
             </ul>
-
           </PostModelo>} 
         />
       </Route>
